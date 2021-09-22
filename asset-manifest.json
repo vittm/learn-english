@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/learn-english/static/css/main.7150b0d1.chunk.css",
-    "main.js": "/learn-english/static/js/main.aa4c36ec.chunk.js",
-    "main.js.map": "/learn-english/static/js/main.aa4c36ec.chunk.js.map",
+    "main.css": "/learn-english/static/css/main.a320a418.chunk.css",
+    "main.js": "/learn-english/static/js/main.9291198a.chunk.js",
+    "main.js.map": "/learn-english/static/js/main.9291198a.chunk.js.map",
     "runtime-main.js": "/learn-english/static/js/runtime-main.18920924.js",
     "runtime-main.js.map": "/learn-english/static/js/runtime-main.18920924.js.map",
-    "static/js/2.c3c102d7.chunk.js": "/learn-english/static/js/2.c3c102d7.chunk.js",
-    "static/js/2.c3c102d7.chunk.js.map": "/learn-english/static/js/2.c3c102d7.chunk.js.map",
+    "static/js/2.23699ca9.chunk.js": "/learn-english/static/js/2.23699ca9.chunk.js",
+    "static/js/2.23699ca9.chunk.js.map": "/learn-english/static/js/2.23699ca9.chunk.js.map",
     "static/js/3.6ef6cacd.chunk.js": "/learn-english/static/js/3.6ef6cacd.chunk.js",
     "static/js/3.6ef6cacd.chunk.js.map": "/learn-english/static/js/3.6ef6cacd.chunk.js.map",
     "index.html": "/learn-english/index.html",
-    "static/css/main.7150b0d1.chunk.css.map": "/learn-english/static/css/main.7150b0d1.chunk.css.map",
-    "static/js/2.c3c102d7.chunk.js.LICENSE.txt": "/learn-english/static/js/2.c3c102d7.chunk.js.LICENSE.txt"
+    "static/css/main.a320a418.chunk.css.map": "/learn-english/static/css/main.a320a418.chunk.css.map",
+    "static/js/2.23699ca9.chunk.js.LICENSE.txt": "/learn-english/static/js/2.23699ca9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18920924.js",
-    "static/js/2.c3c102d7.chunk.js",
-    "static/css/main.7150b0d1.chunk.css",
-    "static/js/main.aa4c36ec.chunk.js"
+    "static/js/2.23699ca9.chunk.js",
+    "static/css/main.a320a418.chunk.css",
+    "static/js/main.9291198a.chunk.js"
   ]
 }
