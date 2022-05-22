@@ -271,8 +271,6 @@ const Header = () =>{
         <p>Note *</p>
         <span>Phần learned không được tính nếu chọn học từng unit một hoặc nhấn gợi ý từ.</span>
         <p> Mình chỉ dev vui để có cái ôn lại từ vựng đã học. </p>
-        <p><strong>Nguồn từ vựng: Sách Hack não 1500 ( StepUp ) và internet</strong></p>
-        <i>instagram: @wuli.vn</i>
       </div>
     </div>
   )
