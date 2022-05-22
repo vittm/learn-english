@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/learn-english/static/css/main.076e6b37.chunk.css",
-    "main.js": "/learn-english/static/js/main.66b63590.chunk.js",
-    "main.js.map": "/learn-english/static/js/main.66b63590.chunk.js.map",
+    "main.css": "/learn-english/static/css/main.de4bfa12.chunk.css",
+    "main.js": "/learn-english/static/js/main.74552be5.chunk.js",
+    "main.js.map": "/learn-english/static/js/main.74552be5.chunk.js.map",
     "runtime-main.js": "/learn-english/static/js/runtime-main.18920924.js",
     "runtime-main.js.map": "/learn-english/static/js/runtime-main.18920924.js.map",
     "static/js/2.23699ca9.chunk.js": "/learn-english/static/js/2.23699ca9.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.6ef6cacd.chunk.js": "/learn-english/static/js/3.6ef6cacd.chunk.js",
     "static/js/3.6ef6cacd.chunk.js.map": "/learn-english/static/js/3.6ef6cacd.chunk.js.map",
     "index.html": "/learn-english/index.html",
-    "static/css/main.076e6b37.chunk.css.map": "/learn-english/static/css/main.076e6b37.chunk.css.map",
+    "static/css/main.de4bfa12.chunk.css.map": "/learn-english/static/css/main.de4bfa12.chunk.css.map",
     "static/js/2.23699ca9.chunk.js.LICENSE.txt": "/learn-english/static/js/2.23699ca9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18920924.js",
     "static/js/2.23699ca9.chunk.js",
-    "static/css/main.076e6b37.chunk.css",
-    "static/js/main.66b63590.chunk.js"
+    "static/css/main.de4bfa12.chunk.css",
+    "static/js/main.74552be5.chunk.js"
   ]
 }
