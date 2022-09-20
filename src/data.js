@@ -442,6 +442,7 @@ class StoreFriendList {
       {en: 'high wind', vi: 'gió lớn', ipa: '[ɪnˈdʊr]' , type: 'cum',unit: 15,ex:''},
       {en: 'temperature drops', vi: 'nhiệt độ giảm', ipa: '[ɪnˈdʊr]' , type: 'cum',unit: 15,ex:''},
       {en: 'cold spell', vi: 'đợt rét', ipa: '[ɪnˈdʊr]' , type: 'cum',unit: 15,ex:''},
+      {hello: 'hi'},
     ]
     return arr;
   }
